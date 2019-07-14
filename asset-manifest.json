@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coding-addict-recipe-app/static/css/main.b17128b0.chunk.css",
+    "main.js": "/coding-addict-recipe-app/static/js/main.75b62c85.chunk.js",
+    "main.js.map": "/coding-addict-recipe-app/static/js/main.75b62c85.chunk.js.map",
+    "runtime~main.js": "/coding-addict-recipe-app/static/js/runtime~main.47e45ba6.js",
+    "runtime~main.js.map": "/coding-addict-recipe-app/static/js/runtime~main.47e45ba6.js.map",
+    "static/js/2.77b90360.chunk.js": "/coding-addict-recipe-app/static/js/2.77b90360.chunk.js",
+    "static/js/2.77b90360.chunk.js.map": "/coding-addict-recipe-app/static/js/2.77b90360.chunk.js.map",
+    "index.html": "/coding-addict-recipe-app/index.html",
+    "precache-manifest.6dd3005fc153efe3361ec62c8818d562.js": "/coding-addict-recipe-app/precache-manifest.6dd3005fc153efe3361ec62c8818d562.js",
+    "service-worker.js": "/coding-addict-recipe-app/service-worker.js",
+    "static/css/main.b17128b0.chunk.css.map": "/coding-addict-recipe-app/static/css/main.b17128b0.chunk.css.map"
+  }
+}
